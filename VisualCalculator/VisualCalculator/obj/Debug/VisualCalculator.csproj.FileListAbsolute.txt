@@ -1,1 +1,13 @@
 c:\users\ibm_admin\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.exe.config
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.pdb
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\MainWindow.baml
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\App.g.cs
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator_MarkupCompile.cache
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.g.resources
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.Properties.Resources.resources
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.csproj.GenerateResource.Cache
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2013\Projects\VisualCalculator\VisualCalculator\obj\Debug\VisualCalculator.pdb
